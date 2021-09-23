@@ -18,12 +18,12 @@ This [bot](http://t.me/ProductHuntTelegramBot) shows you the Sub of the Day.
 
 #### Commands
 
-start - This starts the bot 🚀 
-ph - This sends all products of the day 🗣 
-schedule - This lets you choose a schedule for automatic updates 🕰 
-help - This sends you a help text 🆘 
-contact - This allows contact ✍️ 
-feedback - This lets you give feedback 👺 
+start - This starts the bot 🚀   
+ph - This sends all products of the day 🗣   
+schedule - This lets you choose a schedule for automatic updates 🕰   
+help - This sends you a help text 🆘   
+contact - This allows contact ✍️   
+feedback - This lets you give feedback 👺   
 
 ### Requirements
 
