@@ -14,7 +14,7 @@
 
 # Product Hunt Telegram Bot
 
-This [bot](http://t.me/ProductHuntTelegramBot) shows you the Sub of the Day. 
+This [bot](http://t.me/ProductHuntTelegramBot) shows you today's posts from [Product Hunt](https://www.producthunt.com/). 
 
 #### Commands
 
