@@ -18,12 +18,12 @@ This [bot](http://t.me/ProductHuntTelegramBot) shows you today's posts from [Pro
 
 #### Commands
 
-start - This starts the bot 🚀 
-daily - This sends all products of the day 🗣
-monthly - This sends all products of the month 🗣
-help - This sends you a help text 🆘 
-contact - This allows contact ✍️ 
-feedback - This lets you give feedback 👺  
+start - This starts the bot 🚀   
+daily - This sends all products of the day 🗣  
+monthly - This sends all products of the month 🗣  
+help - This sends you a help text 🆘   
+contact - This allows contact ✍️   
+feedback - This lets you give feedback 👺    
 
 ### Requirements
 
@@ -31,6 +31,7 @@ feedback - This lets you give feedback 👺
 - SSL certificate (I recommend [Let's Encrypt](https://letsencrypt.org/))
 - Webserver running [Python](https://www.python.org) (tested with [Apache](https://httpd.apache.org/) & [NGINX](https://www.nginx.com/) but others should work too)
 - API key from Product Hunt
+- [Sentry](https://docs.sentry.io/platforms/python/) key (optional)
 - [Healthchecks](https://healthchecks.io/#php) URL (optional)
 
 ### Contributing
