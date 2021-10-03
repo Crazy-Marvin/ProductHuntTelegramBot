@@ -7,7 +7,7 @@
 [![Latest tag](https://img.shields.io/github/tag/Crazy-Marvin/ProductHuntTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/tags)
 [![Issues](https://img.shields.io/github/issues/Crazy-Marvin/ProductHuntTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/issues)
 [![Pull requests](https://img.shields.io/github/issues-pr/Crazy-Marvin/ProductHuntTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/pulls)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9ec4ee98a93425ca8162b369adce3db)](https://www.codacy.com/gh/Crazy-Marvin/ProductHuntTelegramBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/ProductHuntTelegramBot&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d6eb9ee5488548dca0536ecd93e16ae0)](https://www.codacy.com/gh/Crazy-Marvin/ProductHuntTelegramBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/ProductHuntTelegramBot&amp;utm_campaign=Badge_Grade)
 [![Dependabot](https://badgen.net/badge/icon/dependabot?icon=dependabot&label)](https://python.org/)
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/Crazy-Marvin/ProductHuntTelegramBot)
 [![Telegram Product Hunt Bot](https://img.shields.io/badge/Python-yellow?logo=python)](https://t.me/ProductHuntTelegramBot)
