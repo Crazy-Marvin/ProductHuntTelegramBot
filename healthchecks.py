@@ -11,13 +11,13 @@ url = 'https://api.telegram.org/bot' + API_KEY + \
 
 while True:
 
-    # YogiBot Telegram Bot
+    # Product Hunt Telegram Bot
     try:
         requests.get(
-            "https://hc-ping.com/c0bc0baa-b74c-4cb3-bb4b-26c0743b6843", timeout=30)
-        MSG += "🟢 YOGI BOT\n\n"
+            "https://hc-ping.com/97c84712-e1e6-4d4e-a9b4-670b702f9c5b", timeout=30)
+        MSG += "🟢 PRODUCT HUNT BOT\n\n"
     except:
-        MSG += "🔴 YOGI BOT\n\n"
+        MSG += "🔴 PRODUCT HUNT BOT\n\n"
 
     requests.get(url=(url+MSG))
     MSG = ""
