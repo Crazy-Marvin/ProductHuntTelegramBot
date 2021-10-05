@@ -108,9 +108,13 @@ def pod(message):
 @bot.message_handler(commands=["monthly"])
 def pom(message):
 
-    month = datetime.datetime.today().month  # TODO: Fix for Jan 1, 2022
-    year = datetime.datetime.today().year
-
+    if datetime.datetime.today().month == 1:
+         month = 12
+         year = datetime.datetime.today().year - 1
+    else:
+         month = datetime.datetime.today().month - 1
+         year = datetime.datetime.today().year
+         
     url = f"https://api.producthunt.com/v1/posts/all?sort_by=votes_count&order=desc&search[featured_month]={month}&search[featured_year]={year}"
 
     headers = {
@@ -267,8 +271,12 @@ def monthly():
     if datetime.date.today() != 1:
         return
 
-    month = datetime.datetime.today().month - 1  # TODO: Fix for Jan 1, 2022
-    year = datetime.datetime.today().year
+    if datetime.datetime.today().month == 1:
+        month = 12
+        year = datetime.datetime.today().year - 1
+    else:
+        month = datetime.datetime.today().month - 1
+        year = datetime.datetime.today().year
 
     url = f"https://api.producthunt.com/v1/posts/all?sort_by=votes_count&order=desc&search[featured_month]={month}&search[featured_year]={year}"
 
