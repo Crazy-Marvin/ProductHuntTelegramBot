@@ -360,8 +360,8 @@ def daily():
                              disable_web_page_preview=True)
 
 
-schedule.every().day.at("00:00").do(daily)
-schedule.every().day.at("12:00").do(monthly)
+schedule.every().day.at("13:30").do(daily)
+schedule.every().day.at("07:00").do(monthly)
 
 # TODO: Create a separate script and host it as a main thread on server for better performance 🤔
 
