@@ -1,6 +1,6 @@
 [![Telegram Product Hunt Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/ProductHuntTelegramBot)
 [![GitHub Actions](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/actions/workflows/ci.yml/badge.svg)](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/actions/workflows/ci.yml)
-![healthchecks.io](https://healthchecks.io/badge/396c7d03-faf7-4562-9f83-1194d0/n-TwoPva-2/ProductHunt.shields)
+![healthchecks.io](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fbadge%2F396c7d03-faf7-4562-9f83-1194d0%2Fn-TwoPva%2FProductHunt.shields)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/ProductHuntTelegramBot)](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/blob/trunk/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/ProductHuntTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/ProductHuntTelegramBot/total.svg?style=flat)](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/releases)
