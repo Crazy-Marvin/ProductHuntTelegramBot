@@ -2,7 +2,7 @@
 cachetools==5.2.0
 certifi==2021.5.30
 charset-normalizer==2.0.5
-google-auth==2.1.0
+google-auth==2.11.0
 google-auth-oauthlib==0.4.6
 gspread==4.0.1
 httplib2==0.20.4
