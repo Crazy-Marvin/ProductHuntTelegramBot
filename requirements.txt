@@ -4,7 +4,7 @@ certifi==2022.6.15
 charset-normalizer==2.0.5
 google-auth==2.11.0
 google-auth-oauthlib==0.4.6
-gspread==5.4.0
+gspread==5.5.0
 httplib2==0.20.4
 idna==3.2
 oauth2client==4.1.3
