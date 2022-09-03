@@ -9,12 +9,14 @@
 [![Pull requests](https://img.shields.io/github/issues-pr/Crazy-Marvin/ProductHuntTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/ProductHuntTelegramBot/pulls)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d6eb9ee5488548dca0536ecd93e16ae0)](https://www.codacy.com/gh/Crazy-Marvin/ProductHuntTelegramBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/ProductHuntTelegramBot&amp;utm_campaign=Badge_Grade)
 [![Dependabot](https://badgen.net/badge/icon/dependabot?icon=dependabot&label)](https://python.org/)
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/Crazy-Marvin/ProductHuntTelegramBot)
+[![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/Crazy-Marvin/ProductHuntTelegramBot)](https://app.snyk.io/org/crazymarvin/project/e58b3418-2609-4731-b629-6812069fdb73)
 [![Telegram Product Hunt Bot](https://img.shields.io/badge/Python-yellow?logo=python)](https://t.me/ProductHuntTelegramBot)
 
 # Product Hunt Telegram Bot
 
 This [bot](http://t.me/ProductHuntTelegramBot) shows you today's posts from [Product Hunt](https://www.producthunt.com/). 
+
+![Product Hunt Telegram Bot Preview](https://user-images.githubusercontent.com/15004217/188268836-ef691e4b-e8bc-4410-8bb6-a5e72ba90388.PNG)
 
 #### Commands
 
