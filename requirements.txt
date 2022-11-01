@@ -11,7 +11,7 @@ oauth2client==4.1.3
 oauthlib==3.2.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycodestyle==2.7.0
+pycodestyle==2.9.1
 pyparsing==3.0.9
 pyTelegramBotAPI==4.7.0
 python-dotenv==0.21.0
